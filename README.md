@@ -1,7 +1,7 @@
 ## Olá, eu sou a João Guilherme, entusiasta de programação e tecnologia!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Guil&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil)](https://github.com/Joao-Guil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Joao-Guil/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
