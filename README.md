@@ -1,6 +1,7 @@
 ## Olá, eu sou a João Guilherme, entusiasta de programação e tecnologia!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Guil&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Guil&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil)](https://github.com/Joao-Guil/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
