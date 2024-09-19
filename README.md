@@ -1,5 +1,11 @@
 ## Olá, eu sou João Guilherme, entusiasta de programação e tecnologia!
 
+<div align="center">
+  
+## Actually Working in <br> [<a href="https://github.com/Joao-Guil/uSun-Script">uSun-Script</a>]
+<img src="./uSun-removebg-preview.png">
+
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Guil&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Joao-Guil/github-readme-stats)
