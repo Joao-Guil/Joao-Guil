@@ -1,4 +1,4 @@
-## Olá, eu sou João Guilherme, entusiasta de programação e tecnologia!
+## Hi, I am João Guilherme, enthusiast of programmation and technology!
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Guil&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Joao-Guil/github-readme-stats)
-## Programation Languages in Learning
+## Programmation Languages i'm Learning
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 </div>
 
-## Programation Languages that I use
+## Programmation Languages that I use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
