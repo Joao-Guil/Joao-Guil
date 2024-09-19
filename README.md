@@ -6,7 +6,7 @@
 <div align="center">
   
 ## Actually Working in <br> [<a href="https://github.com/Joao-Guil/uSun-Script">uSun-Script</a>]
-<img src="./uSun-removebg-preview.pn">
+<img src="./uSun-removebg-preview.png">
 
 </div>
 
