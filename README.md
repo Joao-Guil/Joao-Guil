@@ -1,14 +1,12 @@
-## Hi, I am João Guilherme, enthusiast of programmation and technology!
+<div align="center">
+
+### Hi, I am João Guilherme, enthusiast of programmation and technology!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Guil&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Joao-Guil/github-readme-stats)
-
-<div align="center">
   
 ## Actually Working in <br> [<a href="https://github.com/Joao-Guil/uSun-Script">uSun-Script</a>]
 <img src="./uSun-removebg-preview.png">
-
-</div>
 
 ## Programmation Languages i'm Learning
 <div style="display: inline_block"><br>
@@ -35,3 +33,4 @@
 </div>
 
 ##
+</div>
