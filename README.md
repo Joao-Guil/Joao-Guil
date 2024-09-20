@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I am João Guilherme, enthusiast of programmation and technology!
+## Hi, I am João Guilherme, enthusiast of programmation and technology!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Guil&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Joao-Guil/github-readme-stats)
