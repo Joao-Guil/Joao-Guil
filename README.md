@@ -34,5 +34,7 @@
   <img align="center" alt="Git" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
+<img width="500px" src="https://personal-wakatime.vercel.app/timer?username=&key=@fa6697f5-d228-48bf-ab92-ed903316ec0e/46f847e9-c640-4eee-8f61-f5c1c67094e7" alt="languages">
+
 ##
 </div>
