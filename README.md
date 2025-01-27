@@ -16,7 +16,8 @@
 ## Programmation Languages
 
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=ams,llvm,c,perl,rust,zig,go,haskell,java,kotlin,ruby,dart,typescript" height="37" >
+<img src="https://imgur.com/CZ3pw4E.png" width="37" height="37" >
+<img src="https://skillicons.dev/icons?i=c,perl,rust,zig,go,haskell,java,kotlin,ruby,dart,typescript" height="37" >
 </div>
 
 ## Tools
