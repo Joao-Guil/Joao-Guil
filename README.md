@@ -16,13 +16,13 @@
 ## Programmation Languages
 
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=c,perl,rust,zig,go,java,kotlin,dart,typescript" height="37" >
+<img src="https://skillicons.dev/icons?i=c,perl,rust,zig,go,haskell,java,kotlin,dart,typescript" height="37" >
 </div>
 
 ## Tools
 
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=git,linux" height="37" >
+<img src="https://skillicons.dev/icons?i=git,linux,postgres,redis,docker" height="37" >
 </div>
 
 
