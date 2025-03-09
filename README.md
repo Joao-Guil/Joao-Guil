@@ -18,7 +18,7 @@
 <img src="https://imgur.com/CZ3pw4E.png" width="37" height="37" >
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,linux" height="37" ><br>
 
-  <img src="https://skillicons.dev/icons?i=go,elixir,ocaml,perl," height="37" >
+  <img src="https://skillicons.dev/icons?i=go,elixir,ocaml,perl" height="37" >
 </div>
 
 </div>
