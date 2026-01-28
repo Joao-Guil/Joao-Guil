@@ -4,17 +4,6 @@
 - Contribuidor de open source
 <div align="center">
   
-<h5>
-  <details>
-    <summary align="left">Personal stats</summary>
-    <br>
-    <div align="center" align-items="center"> 
-      <img width=500 src="https://personal-wakatime.vercel.app/timer?username=SunnYu&key=46ca06d6-e530-42a6-a032-6d880973d532" alt="langs">
-    </div>
-  </details>
-</h5>
-
-  
 
 <div style="display: inline_block"><br>
 <img src="https://imgur.com/CZ3pw4E.png" width="37" height="37" >
